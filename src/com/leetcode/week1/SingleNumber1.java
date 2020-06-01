@@ -15,7 +15,7 @@ public class SingleNumber1 {
 	public static void main(String[] args) {
 		int [] A= {4,1,2,1,2};
 		int val=singleNumber(A);
-		System.out.println("val with only one frequencey : " + val);
+		System.out.println("val with only one frequencey is : " + val);
 		
 	}
 	
